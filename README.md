@@ -2,8 +2,9 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Johan George [https://github.com/ft-johan]
+2. Anand S [https://github.com/AnandSuresh02]
+3. Abhimanyu R B [https://github.com/Abm32]
 ## Team Id
 spacex
 ## Link to product walkthrough
